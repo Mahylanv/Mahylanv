@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  I am a French <strong>developer</strong> FR</br>
+  I am a French <strong>developer</strong></br>
 </h3>
 
 ### Languages
