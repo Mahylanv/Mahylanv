@@ -18,6 +18,7 @@
 ![Jquery](https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery1.svg)
 ![ReactJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
 ![SASS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg)
+![Tailwind](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg)
 
 
 ### Backend
@@ -25,6 +26,12 @@
 ![NodeJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
 ![ExpressJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg)
 ![Symfony](https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony2.svg)
+
+### Mobile
+![React Native](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative2.svg)
+![Expo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
+![Flutter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg)
+![Dart](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart3.svg)
 
 ### Databases
 ![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg)
