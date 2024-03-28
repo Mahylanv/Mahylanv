@@ -48,6 +48,7 @@
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
 ![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg)
 ![Apache](https://ziadoua.github.io/m3-Markdown-Badges/badges/Apache/apache3.svg)
+![Vite](https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg)
 
 
 ### Design
